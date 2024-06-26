@@ -1,3 +1,3 @@
 <!-- header  -->
 
-![Welcome Image](img/welcome.svg)
+![Welcome Image](/img/welcome.svg)
