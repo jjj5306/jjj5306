@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150" width="100%"/>
-<br><br>
+<br>
 
 <!-- Title Typing Effect -->
 
