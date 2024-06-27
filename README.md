@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header" width="100%"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjj5306&show_icons=true&theme=tokyonight&border_radius=20)
 
-<!-- Title Typing Effect -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjj5306&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1&random=false&width=435&center=true&lines=This%20is%20Jun's%20Git!;Welcome%20to%20My%20World!👋" alt="Typing SVG" /></a>
-<br>
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jjj5306&theme=tokyo-night)](https://github.com/jjj5306/github-readme-activity-graph)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjj5306)](https://solved.ac/jjj5306)
