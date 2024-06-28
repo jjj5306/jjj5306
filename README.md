@@ -9,7 +9,6 @@
 
 <br>
 <br>
-<br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjj5306&theme=tokyo-night" width=98%/>
@@ -18,9 +17,6 @@
 <br>
 <br>
 
-<a href="https://github.com/jjj5306/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/jjj5306/github-stats-transparent/output/generated/languages.svg" width=48%/>
-</a>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjj5306)](https://solved.ac/jjj5306/)
